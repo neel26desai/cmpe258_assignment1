@@ -1,6 +1,6 @@
 # cmpe258_assignment1
 
-##Teachable Machine
+## Teachable Machine
 Refer to the file "Teachable Machine.docx", for steps and output.
 
 Teachable Machine Links to trained Model:
