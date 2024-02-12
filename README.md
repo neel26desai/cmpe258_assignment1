@@ -1,7 +1,7 @@
 # cmpe258_assignment1
 
 ## Teachable Machine
-Refer to the file "Teachable Machine.docx", for steps and output.
+Refer to the file "Teachable Machine.docx", for steps and screen shot of the output.
 
 Teachable Machine Links to trained Model:
 1. Image: Image Classifier that differentiates between Apples and Oranges
@@ -14,4 +14,7 @@ Teachable Machine Links to trained Model:
    - Link: https://teachablemachine.withgoogle.com/models/ZM0ghtiVm/
 6. Pose: Happy or not Happy facial expression detection
    - Link: https://teachablemachine.withgoogle.com/models/q8bbeIUJu/
+  
+## Others
+MediaPipe_GestureDetection.ipynb: Using MediaPipe framework for building a gesture recognition model
   
